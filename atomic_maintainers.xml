@@ -6,4 +6,10 @@
         <dev>Device Maintainer</dev>
         <xda>Xda Thread Link</xda>
     </device> -->
+    <device>
+    <name>Redmi note 3(kenzo)</name>
+    <id>1</id>
+    <dev>Manoj(TheDarkStrix)</dev>
+    <xda>https://www.google.com</xda>    
+    </device>  
 </devices>
