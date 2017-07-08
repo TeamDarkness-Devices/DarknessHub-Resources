@@ -12,4 +12,10 @@
     <dev>Manoj(TheDarkStrix)</dev>
     <xda>https://www.google.com</xda>    
     </device>  
+    <device>
+    <name>Mi 5 (Gemini)</name>
+    <id>2</id>
+    <dev>Rohan Khurana(Warlord_rk/fSociety28)</dev>
+    <xda>https://www.beeg.com</xda>
+    </device>
 </devices>
