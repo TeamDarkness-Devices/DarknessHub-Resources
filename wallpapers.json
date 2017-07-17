@@ -1,0 +1,85 @@
+{
+    "Categories": [
+        {
+            "name": "ALL"
+        },
+        {
+            "name": "DND"
+        },
+        {
+            "name": "AOS"
+        }
+    ],
+    "Wallpapers": [
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/eoRbea/IMG_20170503_062300.jpg",
+            "thumbUrl": "http://image.ibb.co/eoRbea/IMG_20170503_062300.jpg",
+            "name": "Flat-DND",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "UnFunny Guy",
+            "url": "http://image.ibb.co/hfVf5F/DND_Red_customwallz.jpg",
+            "thumbUrl": "http://image.ibb.co/hfVf5F/DND_Red_customwallz.jpg",
+            "name": "facets",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "UnFunny Guy",
+            "url": "http://image.ibb.co/kiHGea/DND_CUSTOMWALLZ.jpg",
+            "thumbUrl": "http://image.ibb.co/kiHGea/DND_CUSTOMWALLZ.jpg",
+            "name": "Parallax",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "UnFunny Guy",
+            "url": "http://image.ibb.co/cy1bea/DND_2_0_CUSTOMWALLZ.jpg",
+            "thumbUrl": "http://image.ibb.co/cy1bea/DND_2_0_CUSTOMWALLZ.jpg",
+            "name": "Mystic",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/itFXkF/grungy.png",
+            "thumbUrl": "http://image.ibb.co/itFXkF/grungy.png",
+            "name": "Grungy",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/bzV4za/green.png",
+            "thumbUrl": "http://image.ibb.co/bzV4za/green.png",
+            "name": "Neon",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/ivOJQF/DND.jpg",
+            "thumbUrl": "http://image.ibb.co/ivOJQF/DND.jpg",
+            "name": "wicked",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/nESHKa/3.png",
+            "thumbUrl": "http://image.ibb.co/nESHKa/3.png",
+            "name": "Mud",
+            "category": "AOS,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/nESHKa/3.png",
+            "thumbUrl": "http://image.ibb.co/nESHKa/3.png",
+            "name": "Mud",
+            "category": "AOS,ALL"
+        },
+        {
+            "author": "Savio",
+            "url": "http://image.ibb.co/eiPHkF/1.png",
+            "thumbUrl": "http://image.ibb.co/eiPHkF/1.png",
+            "name": "Atomic",
+            "category": "AOS,ALL"
+        }
+    ]
+}
