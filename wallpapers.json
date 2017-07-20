@@ -80,6 +80,27 @@
             "thumbUrl": "http://image.ibb.co/eiPHkF/1.png",
             "name": "Atomic",
             "category": "AOS,ALL"
+        },
+        {
+            "author": "Biplov",
+            "url": "http://image.ibb.co/g0eAuk/IMG_20170719_012043.png",
+            "thumbUrl": "http://image.ibb.co/g0eAuk/IMG_20170719_012043.png",
+            "name": "Festive",
+            "category": "AOS,ALL"
+        },
+        {
+            "author": "Kishan",
+            "url": "http://image.ibb.co/d2iELQ/wallpaper_8.jpg",
+            "thumbUrl": "http://image.ibb.co/d2iELQ/wallpaper_8.jpg",
+            "name": "Retro",
+            "category": "DND,ALL"
+        },
+        {
+            "author": "Kishan",
+            "url": "http://image.ibb.co/dACVuk/wallpaper_1.png",
+            "thumbUrl": "http://image.ibb.co/dACVuk/wallpaper_1.png",
+            "name": "DarkNessreDefined",
+            "category": "DND,ALL"
         }
     ]
 }
