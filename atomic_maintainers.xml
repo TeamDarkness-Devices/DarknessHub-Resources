@@ -18,4 +18,10 @@
     <dev>Rohan Khurana(Warlord_rk/fSociety28)</dev>
     <xda>https://www.beeg.com</xda>
     </device>
+    <device>
+    <name>Redmi Note 4</name>
+    <id>Mido</id>
+    <dev>Abhishek Kaushik(AKabhishek)</dev>
+    <xda>https://forum.xda-developers.com/member.php?u=7716303</xda>
+    </device>
 </devices>
