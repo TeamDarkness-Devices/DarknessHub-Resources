@@ -10,13 +10,13 @@
     <name>Redmi note 3</name>
     <id>Kenzo</id>
     <dev>Manoj(TheDarkStrix)</dev>
-    <xda>https://www.google.com</xda>    
+    <xda>https://forum.xda-developers.com/member.php?u=6800596</xda>    
     </device>  
     <device>
     <name>Xiaomi MI 5</name>
     <id>Gemini</id>
     <dev>Rohan Khurana(Warlord_rk/fSociety28)</dev>
-    <xda>https://www.beeg.com</xda>
+    <xda>https://forum.xda-developers.com/member.php?u=7526018</xda>
     </device>
     <device>
     <name>Redmi Note 4</name>
@@ -30,4 +30,10 @@
     <dev>Abhishek Kaushik(AKabhishek)</dev>
     <xda>https://forum.xda-developers.com/member.php?u=7716303</xda>
     </device>
+    <device> 
+    <name>Lenovo K3 note</name>
+    <id>aio_otfp</id>
+    <dev>Ninad Patil (PainKiller3)</dev>
+    <xda>https://forum.xda-developers.com/member.php?u=6549853</xda>
+    </device> 
 </devices>
