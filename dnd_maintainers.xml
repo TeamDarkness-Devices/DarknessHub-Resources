@@ -81,6 +81,12 @@
         <dev>Mohan Cm (mohancm)</dev>
         <xda>https://forum.xda-developers.com/k4-note/development/rom-darkness-redefined-t3577935</xda>
     </device> 
+    <device> 
+        <name>Lenovo K6 note</name>
+        <id>karate</id>
+        <dev>Mohit Sethi (TechnoBeat99)</dev>
+        <xda>https://forum.xda-developers.com/android/development/rom-darkness-redefined-rom-v2-1-lenovo-t3640435</xda>
+    </device> 
     <!--MOTOROLA DEVICES-->
     <device> 
         <name>Moto G4 Plus</name>
