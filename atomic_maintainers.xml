@@ -48,4 +48,10 @@
     <dev>Manik Chathli (manikchathli)</dev>
     <xda>https://forum.xda-developers.com/member.php?u=8250123</xda>
     </device> 
+    <device>
+    <name>Moto G5</name>
+    <id>Cedric</id>
+    <dev>Vaisakh Murali (mvaisakh)</dev>
+    <xda>https://forum.xda-developers.com/member.php?u=6982924</xda>
+    </device>
 </devices>
