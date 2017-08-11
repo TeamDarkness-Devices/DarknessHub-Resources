@@ -64,6 +64,12 @@
     </device>
     <!--LENOVO DEVICES-->
     <device> 
+        <name>Lenovo A6000/Plus</name>
+        <id>a6000</id>
+        <dev>Hassan Sardar(Has.007)</dev>
+        <xda>https://forum.xda-developers.com/lenovo-a6000/development/rom-darkness-redefined-1-4-lenovo-a6000-t3602072</xda>
+    </device> 
+    <device> 
         <name>Lenovo Zuk Z2/Zuk Z2 plus</name>
         <id>z2/z2_plus</id>
         <dev>Davide Garberi (DD3Boh)</dev>
