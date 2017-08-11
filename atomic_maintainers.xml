@@ -57,7 +57,12 @@
     <device>
     <name>Redmi 2</name>
     <id>WT88047</id>
-    <dev>Manik Chathli (manikchathli)</dev>
+    <dev>Ayush Dubey (Ayushd70)</dev>
     <xda>https://forum.xda-developers.com/redmi-2/development/rom-atomic-os-t3640983</xda>
+    </device>
+    <name>Lenovo ZUK Z1</name>
+    <id>HAM</id>
+    <dev>Anush Madathumkara (ThuGnessReDefined)</dev>
+    <xda>https://forum.xda-developers.com/zuk-z1/orig-development/rom-atomic-os-1-0-zuk-z1-t3649587</xda>
     </device>
 </devices>
