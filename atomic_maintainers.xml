@@ -60,6 +60,7 @@
     <dev>Ayush Dubey (Ayushd70)</dev>
     <xda>https://forum.xda-developers.com/redmi-2/development/rom-atomic-os-t3640983</xda>
     </device>
+    <device>
     <name>Lenovo ZUK Z1</name>
     <id>HAM</id>
     <dev>Anush Madathumkara (ThuGnessReDefined)</dev>
