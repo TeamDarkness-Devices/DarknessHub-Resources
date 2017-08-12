@@ -37,6 +37,12 @@
     <xda>https://forum.xda-developers.com/member.php?u=6549853</xda>
     </device> 
     <device> 
+    <name>Lenovo K6 Power</name>
+    <id>karate</id>
+    <dev>Mohit(TechnoBeat99)</dev>
+    <xda>https://forum.xda-developers.com/android/development/rom-atomic-os-v1-0-lenovo-k6-t3641937</xda>
+    </device> 
+    <device> 
     <name>Asus Zenfone Max</name>
     <id>Z010D</id>
     <dev>Ninad Patil (PainKiller3)</dev>
