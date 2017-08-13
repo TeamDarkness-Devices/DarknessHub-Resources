@@ -72,4 +72,10 @@
     <dev>Anush Madathumkara (ThuGnessReDefined)</dev>
     <xda>https://forum.xda-developers.com/zuk-z1/orig-development/rom-atomic-os-1-0-zuk-z1-t3649587</xda>
     </device>
+    <device>
+    <name>Le Max 2</name>
+    <id>x2</id>
+    <dev>Rohit Jaiswal (rohitdnd)</dev>
+    <xda>https://forum.xda-developers.com/le-max-2/development/rom-atomic-os-t3640260</xda>
+    </device>
 </devices>
