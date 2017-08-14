@@ -78,4 +78,10 @@
     <dev>Rohit Jaiswal (rohitdnd)</dev>
     <xda>https://forum.xda-developers.com/le-max-2/development/rom-atomic-os-t3640260</xda>
     </device>
+    <device>
+    <name>Yu Yuphoria</name>
+    <id>lettuce</id>
+    <dev>Tanuj Rao(tansanrao)</dev>
+    <xda>http://forums.yuplaygod.com/threads/rom-official-atomic-os-oms-dui-volte.50019</xda>    
+    </device>
 </devices>
