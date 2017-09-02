@@ -84,4 +84,10 @@
     <dev>Tanuj Rao(tansanrao)</dev>
     <xda>http://forums.yuplaygod.com/threads/rom-official-atomic-os-oms-dui-volte.50019</xda>    
     </device>
+    <device>
+    <name>One Plus 3/3T</name>
+    <id>oneplus3</id>
+    <dev>Pritansh Chandra (Pritansh Chandra)</dev>
+    <xda>https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-atomic-os-t3666619</xda>    
+    </device>
 </devices>
