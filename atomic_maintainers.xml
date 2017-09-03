@@ -90,4 +90,10 @@
     <dev>Pritansh Chandra (Pritansh Chandra)</dev>
     <xda>https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-atomic-os-t3666619</xda>    
     </device>
+    <device>
+    <name>LG G3</name>
+    <id>d855</id>
+    <dev>Traian Simedru (jeal0us)</dev>
+    <xda>https://forum.xda-developers.com/lg-g3/development/rom-atomic-os-t3666780</xda>    
+    </device>
 </devices>
